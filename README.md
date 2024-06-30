@@ -1,5 +1,3 @@
-# AI-Analysis-of-Rotating-Machinery-Failure-Types
-
 # 회전기계 고장유형 AI 데이터셋 분석
 
 ## 소개
